@@ -1,4 +1,4 @@
-/*const flagCanvas = document.getElementById('flag');
+const flagCanvas = document.getElementById('flag');
 const fctx = flagCanvas.getContext('2d');
 flagCanvas.width = 320;
 flagCanvas.height = 200;
@@ -149,4 +149,5 @@ window.addEventListener('resize', () => {
     canvas.height = window.innerHeight;
 });
 
-animate(); */
+
+animate(); 
